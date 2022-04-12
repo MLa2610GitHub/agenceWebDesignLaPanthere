@@ -678,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 26px;
+    font-size: 18px;
 }
 
 .tight-width-whitespace {
@@ -703,12 +703,13 @@ p {
 .social {
     max-width: 400px;
     padding: 10px;
-    margin: auto auto auto auto;
+    margin: auto auto 10px auto;
     color: #FFFFFF;
 }
 
 h2 {
-    font-size: 32px;
+    font-size: 22px;
+    font-weight: 700;
     line-height: 1.4em;
 }
 
