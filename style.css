@@ -678,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 18px;
+    font-size: 21px;
 }
 
 .tight-width-whitespace {
@@ -687,7 +687,7 @@ p {
 }
 
 .h1 {
-    font-size: 20px;
+    font-size: 26px;
     font-family: "Open Sans";
 }
 
@@ -703,18 +703,18 @@ p {
 .social {
     max-width: 400px;
     padding: 10px;
-    margin: auto auto 10px auto;
+    margin: auto auto auto auto;
     color: #FFFFFF;
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 24px;
     font-weight: 700;
     line-height: 1.4em;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 22px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
